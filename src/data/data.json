@@ -1,21 +1,20 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "See the Eureka Springs that most folks miss",
+    "paragraph": "Get outside of town and see what more Eureka Springs has to offer."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "“Off the Beaten Path Excursions” is a veteran-owned outdoor adventure company located on a sprawling 94-acre wooded property in Eureka Springs, Arkansas. We offer guided UTV and Hiking Tours, a variety of unique experiences (Shooting Range, Beekeeping, Champion Tree), cabin rental, and more.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Immerse yourself in Eureka Springs' natural beauty",
+      "94 private acres of pristine Ozarks, ready to be explored",
+      "Whether you're looking to have fun or just relax, we've got you covered."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Local Guides and Drivers",
+      "Our property features its own natural spring and all tours include a visit.",
+      "Tour beautiful bluffs and rock formations",
+      "See our Services for more!"
     ]
   },
   "Gallery": [
@@ -152,9 +151,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Eureka Springs, Arkansas 72632 ",
+    "phone": "###-###-####",
+    "email": "info@obpeureka.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -167,7 +166,7 @@
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
+      "title": "Shooting Range",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
